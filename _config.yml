@@ -28,7 +28,7 @@ twitter_username: architeach
 github_username:  architeach-us
 
 # Build settings
-theme: archtect
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
